@@ -14,4 +14,5 @@ Kaggleから以下のデータセットをダウンロードして下さい。
 
 # 開発
  Googleの[colaboratory](https://colab.research.google.com/notebooks/intro.ipynb?hl=ja)を使って開発しました
+ 
  keras == 2.5.0
